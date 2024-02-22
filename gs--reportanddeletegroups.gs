@@ -7,7 +7,7 @@
  * - Adds custom menu options for easy script execution.
  * Requirements:
  * - Admin SDK enabled in Google Cloud Project.
- * - An destination emailadress for reporting the amount of empty groups
+ * - An destination email address for reporting the amount of empty groups
  * - Proper scopes for Admin Directory API in appsscript.json.
  * Written by Jonas Lund, 2024.
  */
